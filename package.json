@@ -1,0 +1,12 @@
+{
+  "name": "verb",
+  "version": "0.0.0",
+  "description": "Verb API",
+  "main": "coffee server.coffee",
+  "author": "Jonathan Porta",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.4.3",
+    "express": "^4.4.5"
+  }
+}
